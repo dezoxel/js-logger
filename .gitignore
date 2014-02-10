@@ -1,6 +1,11 @@
+# artefacts
+dist/
+build/
+
 # IDE junk
 .settings
 .project
+.DS_Store
 
 # NodeJS
 node_modules
