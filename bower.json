@@ -1,0 +1,25 @@
+{
+  "name": "js-logger",
+  "version": "0.9.2",
+  "homepage": "https://github.com/dezoxel/js-logger",
+  "authors": [
+    "jonnyreeves"
+  ],
+  "description": "Lightweight, unobtrusive, configurable JavaScript logger",
+  "main": "src/logger.js",
+  "keywords": [
+    "js",
+    "logger",
+    "lightweight",
+    "JavaScript",
+    "log"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
